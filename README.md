@@ -26,13 +26,14 @@ I also like to write code a wee bit
 ## 🛠️ Tech Stack
 
 **Languages**  
-`C++` `Python` `C` `Bash` `JavaScript`
+`C` `C++` `JavaScript` `HTML/CSS` `Python` `R` `SQL` `Swift`
 
-**Tools & Frameworks**  
-`Linux` `Git` `Make` `Flask` `React` `GDB` `VS Code` `Valgrind`
+** Tools**  
+`macOS` `VS Code` `Xcode` `Postman` `Git` `Firebase` `Figma` `Sketch`
 
-**Concepts I Love**  
-`Operating Systems` `Compilers` `Parallelism` `Concurrency` `Low-Level Debugging` `Pipelines`
+**Technologies & Frameworks**  
+`Pandas` `NumPy` `Plotly` `scikit-learn` `TensorFlow`  
+`Flask` `React` `Node.js` `SwiftUI` `REST APIs`
 
 ---
 
