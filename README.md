@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Sabit (this is a work in progress, take it as a grain of salt.)
 
-I'm a systems-oriented developer who loves working close to the metal. Passionate about operating systems, distributed systems, and writing clean, efficient code.
+Just a kid trying to survive and not end up homeless.
 
-I enjoy solving complex problems with elegant solutions — whether it’s debugging pipeline hazards in a simulator or building robust backends that can scale.
+I also like to write code a wee bit
 
 ---
 
@@ -36,24 +36,8 @@ I enjoy solving complex problems with elegant solutions — whether it’s debug
 
 ---
 
-## 📚 Currently Learning
-
-- Writing more Pythonic code after years of C++
-- Compiler design and LLVM internals
-- Distributed systems patterns
-
----
-
-## 🌱 Fun Facts
-
-- I have strong opinions about tab vs spaces (team tabs).
-- I’ve lost sleep over race conditions. Worth it.
-- I think reading code is just as important as writing it.
-
----
-
 ## 📫 Reach Me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- Email: your@email.com
+- [LinkedIn](https://linkedin.com/in/sabit-islam)
+- Email: sabit@umich.edu
 
