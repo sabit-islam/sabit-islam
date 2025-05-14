@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey, I'm Sabit (this is a work in progress, take it as a grain of salt.)
+# 👋 Hey, I'm Sabit (this is a work in progress, take it with a grain of salt for now, i've just been busy making sure I can actually code.)
 
 Just a kid trying to survive and not end up homeless.
 
