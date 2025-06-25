@@ -8,7 +8,7 @@ I'm a Computer Science & Data Science student at the University of Michigan, bui
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,html,css,swift,react,node,bash,flash,django,figma,firebase,github,pytorch,r,regex,sklearn,vscode,aws,k&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,html,css,swift,react,node,bash,flask,django,figma,firebase,github,pytorch,r,regex,sklearn,vscode,aws,k&perline=10)](https://skillicons.dev)
 
 ---
 ### 🎶 What i'm listening to right now! 
