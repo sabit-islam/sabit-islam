@@ -2,7 +2,7 @@
 
 > "Just a kid trying to survive and not end up homeless... but I write code too."
 
-I'm a Computer Science & Data Science student at the University of Michigan (Class of 2026) — building things that (usually) don't crash. I love bringing ideas to life with code, especially in the worlds of systems programming, data-driven apps, and web development. I'm always looking for ways to learn more, build smarter, and contribute to meaningful projects.
+I'm a Computer Science & Data Science student at the University of Michigan, building things that (hopefully) don't crash. I love bringing ideas to life with code, especially in the worlds of systems programming, data-driven apps, and web development. I'm always looking for ways to learn more, build smarter, and contribute to meaningful projects.
 
 ---
 
@@ -40,7 +40,8 @@ I'm a Computer Science & Data Science student at the University of Michigan (Cla
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly)
 
 ---
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sabizlam&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=sabizlam&redirect=true)
+---
 ## 🚀 What I'm Into
 
 - 🔬 Cryptography, Algorithms, Systems & Web Engineering
