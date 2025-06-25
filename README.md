@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Sabit
+## Welcome to my Profile!
 
 > "Just a kid trying to survive and not end up homeless... but I write code too."
 
