@@ -8,36 +8,7 @@ I'm a Computer Science & Data Science student at the University of Michigan, bui
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-### 🔧 Tools & Environments  
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,html,css,swift,react,node,bash,flash,django,figma,firebase,github,pytorch,r,regex,sklearn,vscode,aws,k&perline=10)](https://skillicons.dev)
 
 ---
 ### 🎶 What i'm listening to right now! 
