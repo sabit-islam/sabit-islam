@@ -55,7 +55,3 @@ I'm a Computer Science & Data Science student at the University of Michigan (Cla
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabit-islam)
 [![Email](https://img.shields.io/badge/-sabit@umich.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabit@umich.edu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sabit-islam)
-
----
-
-> ⚡ Fun Fact: My projects have included a MapReduce framework, a pipelined processor simulator, and a search engine that actually works (most of the time).
