@@ -11,7 +11,7 @@ I'm a Computer Science & Data Science student at the University of Michigan, bui
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,html,css,swift,react,node,bash,flask,django,figma,firebase,github,pytorch,r,regex,sklearn,vscode,aws,k&perline=10)](https://skillicons.dev)
 
 ---
-### 🎶 What i'm listening to right now! 
+### 🎶 Current Tunes 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sabizlam&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=sabizlam&redirect=true)
 ---
 ## 🚀 What I'm Into
