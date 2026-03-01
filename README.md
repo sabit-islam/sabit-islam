@@ -1,24 +1,13 @@
-## Hi! I'm Sabit 👋🏾
+## Sabit.
 
-> "Just a kid trying to survive and not end up homeless... but I write code too."
-
-I'm a Computer Science & Data Science student at the University of Michigan, building things that (hopefully) don't crash. I love bringing ideas to life with code, especially in the worlds of systems programming, data-driven apps, and web development. I'm always looking for ways to learn more, build smarter, and contribute to meaningful projects.
+iOS Co-op @ Whoop. Computer & Data Science @ University of Michigan. 
+another soldier in the war against the job market
 
 ---
 
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,html,css,swift,react,nodejs,bash,flask,django,figma,firebase,github,pytorch,r,regex,sklearn,vscode,aws,k&perline=12)](https://skillicons.dev)
-
----
-## 🚀 What I'm Into
-
-- 🔬 Cryptography, Algorithms, Systems & Web Engineering
-- 🧠 Machine Learning & Data Science
-- 🧩 Building search engines, pipelines, and compilers from scratch
-- 🛠 Making tools for people like me who learn best by building
-
----
 
 ## 📫 Let's Connect
 
