@@ -1,13 +1,13 @@
 ## Sabit.
 
-iOS Co-op @ Whoop. Computer & Data Science @ University of Michigan. 
-another soldier in the war against the job market
+### iOS Co-op @ Whoop. Computer & Data Science @ University of Michigan. 
+Just another soldier in the war against the job market
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,html,css,swift,react,nodejs,bash,flask,django,figma,firebase,github,pytorch,r,regex,sklearn,vscode,aws,k&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,javascript,apple,html,css,swift,kotlin,react,nodejs,bash,flask,django,figma,firebase,github,pytorch,postman,r,regex,sklearn,vscode,aws,k&perline=12)](https://skillicons.dev)
 
 ## 📫 Let's Connect
 
