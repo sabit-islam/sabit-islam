@@ -1,6 +1,6 @@
 ## Sabit.
 
-### Software Engineering Co-op @ Whoop. Computer & Data Science @ University of Michigan. 
+### Software Engineer @ Whoop. Computer & Data Science @ University of Michigan. 
 Just another soldier in the war against the job market
 
 ---
